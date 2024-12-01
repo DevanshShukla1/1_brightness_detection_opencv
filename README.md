@@ -19,4 +19,6 @@ The annotated frames are shown in a window using cv2.imshow.
 A pie chart is plotted using Matplotlib to illustrate the percentage distribution of time categories.
 ![alt text](https://github.com/DevanshShukla1/1_brightness_detection_opencv/blob/main/output.jpg?raw=true)
 ![alt text](https://github.com/DevanshShukla1/1_brightness_detection_opencv/blob/main/color_overlay_output.jpg?raw=true)
+![image](https://github.com/user-attachments/assets/36340fc6-5501-4345-b601-47a1c7146480)
+
 
