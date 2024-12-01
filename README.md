@@ -13,7 +13,7 @@ Frames are categorized by checking their brightness levels against predefined th
 The percentage of frames in each category is calculated relative to the total frame count.
 ## 7) Annotated Images: 
 The representative frames are resized, annotated with percentages using cv2.putText, and concatenated vertically for display.
-## 8) Display Annotated Frames: 
+## 8) Displaying the Annotated Frames: 
 The annotated frames are shown in a window using cv2.imshow.
 ## 9) Pie Chart Visualization:
 A pie chart is plotted using Matplotlib to illustrate the percentage distribution of time categories.
