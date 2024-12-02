@@ -1,4 +1,4 @@
-Visualizing Sunrise and Sunset with OpenCV 🌄(Solution)
+## Visualizing Sunrise and Sunset with OpenCV 🌄(Solution)
 
 Problem Statement:
 
